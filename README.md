@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mardan16 or Ali Mardan(irl name).
+- 👋 Hi, I’m Ali Mardan.
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning full stack webite development
-- 💞️ I’m looking to collaborate on projects as a learning experience 
+- 🌱 I’m currently learning full stack webite development.
+- 💞️ I’m looking to collaborate on projects which can give me experience
 - 📫 How to reach me : alimardan.shaa@gmail.com 
 
 <!---
